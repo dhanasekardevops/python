@@ -1,0 +1,13 @@
+Python & Installing Python (Windows)
+
+Python is programming language. Interpreted
+Go to python official website (https://www.python.org/downloads/windows/)
+Download Python 3.11.11 (https://www.python.org/ftp/python/3.11.6/python-3.11.6-amd64.exe)
+
+To set the instalation path
+create one folder name like py311   ///note folder name must be a without space
+Go to environment variables
+Add the python path in environment variable
+
+
+### Install Visual studio code for compiling
