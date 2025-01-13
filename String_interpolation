@@ -1,4 +1,14 @@
-///String Declaration
+///String Interpolation is the process of substituting values of variables into placeholders in a string
+
+/// format string declaration
+
+name = "Dhanasekar"
+age ="twenty five"
+print("{} {}".format(name,age))
+Result :
+Dhanasekar twenty five
+
+///String Declaration with proper format
 
 name = "Dhanasekar"
 age ="twenty five"
