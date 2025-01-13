@@ -1,0 +1,18 @@
+///integer declaration
+
+a=10
+b=20
+print(a+b)
+
+Result:
+30
+
+
+///String Declaration
+
+name = "Dhanasekar"
+age ="twenty five"
+print("MY name is {} & My age is {}".format(name,age))
+
+Result:
+MY name is Dhanasekar & My age is twenty five
