@@ -1,1 +1,8 @@
-dd
+///String Declaration
+
+name = "Dhanasekar"
+age ="twenty five"
+print("MY name is {} & My age is {}".format(name,age))
+
+Result:
+MY name is Dhanasekar & My age is twenty five
