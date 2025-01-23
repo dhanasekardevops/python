@@ -17,3 +17,8 @@ version_float=int(version)
 print(age_str,type(age_str))
 print(version_float,type(version_float))
 
+Result:
+
+25 <class 'str'>
+1 <class 'int'>
+
