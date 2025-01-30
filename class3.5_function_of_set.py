@@ -25,3 +25,11 @@ print(myset_sort)
 #list(iterable): Converts an iterable (like a tuple, set) into a list.
 myset3=set(myset3)
 print(type(myset3),sorted(myset3))
+
+Output:
+4
+48
+23
+134
+[23, 24, 39, 48]
+<class 'set'> [23, 24, 39, 48]
