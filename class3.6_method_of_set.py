@@ -36,3 +36,13 @@ print(dhanaset2.count(2345))
 
 #set.discard(item): Removes an item; does nothing if not found.
 
+Output:
+{6789, 2345, 5678, 1234, 9876}
+{2, 3, 4, 6789, 2345, 5678, 1234, 9876}
+{2, 3, 4, 6789, 2345, 1234, 9876}
+{3, 4, 6789, 2345, 1234, 9876}
+set()
+3
+4
+2
+
