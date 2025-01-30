@@ -14,3 +14,8 @@ print(dhanalist2.count(2345))
 # list.sort(reverse=False): Sorts the list in ascending order.
 # list.reverse(): Reverses the order of elements.
 # list.copy(): Returns a shallow copy of the list.
+
+Output:
+3
+4
+2
