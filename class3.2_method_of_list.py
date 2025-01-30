@@ -37,3 +37,14 @@ print(dhanalist2.count(2345))
 # list.sort(reverse=False): Sorts the list in ascending order.
 # list.reverse(): Reverses the order of elements.
 # list.copy(): Returns a shallow copy of the list.
+
+Result :
+[2345, 6789, 1234, 5678, 9876]
+[2345, 6789, 9876, 1234, 5678, 9876]
+[2345, 6789, 9876, 1234, 5678, 9876, 2, 3, 4]
+[2345, 6789, 9876, 1234, 9876, 2, 3, 4]      
+[2345, 6789, 9876, 1234, 9876, 2, 3]
+[]
+3
+4
+2
