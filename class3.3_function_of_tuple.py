@@ -24,3 +24,11 @@ print(mylist_tuple_sort)
 #list(iterable): Converts an iterable (like a tuple, set) into a list.
 mylist_tuple_tuple=list(mylist_tuple1)
 print(type(mylist_tuple_tuple),mylist_tuple_tuple)
+
+Output :
+4
+48
+23
+134
+[23, 24, 39, 48]
+<class 'list'> [23, 48, 39, 24]
